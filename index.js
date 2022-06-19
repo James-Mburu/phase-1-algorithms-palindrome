@@ -1,9 +1,17 @@
 function isPalindrome(word) {
   // Write your algorithm here
+
+  
 }
 
 /* 
   Add your pseudocode here
+    get the string and convert into array.
+    reverse the array
+    convert the array into string
+    compare original string with the reversed string.
+
+
 */
 
 /*
